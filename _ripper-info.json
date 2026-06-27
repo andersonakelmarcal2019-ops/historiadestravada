@@ -1,0 +1,40 @@
+{
+    "source": "https://historia-destravada-landing.lovable.app/",
+    "rippedAt": "2026-06-26T23:49:58+00:00",
+    "files": [
+        "index.html",
+        "_external/cdn.utmify.com.br/scripts/utms/latest.js",
+        "_external/cdn.jsdelivr.net/npm/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js",
+        "assets/styles-BXLiicsR.css",
+        "_external/fonts.googleapis.com/css2",
+        "assets/index-DvaAR0UV.js",
+        "assets/routes-Bt8CUuxO.js",
+        "_external/i.imgur.com/kZPsUBr.jpeg",
+        "_external/i.imgur.com/4VufaOD.jpeg",
+        "_external/i.imgur.com/EWbcuie.jpeg",
+        "_external/i.imgur.com/odTE5su.jpeg",
+        "_external/i.imgur.com/7auRgL5.jpeg",
+        "_external/i.imgur.com/ZTqed0x.jpeg",
+        "_external/i.imgur.com/2D2rgJb.jpeg",
+        "_external/i.imgur.com/OaAzGaD.jpeg",
+        "_external/i.imgur.com/NHw3mV9.jpeg",
+        "_external/i.imgur.com/K4RT1Mb.jpeg",
+        "_external/i.imgur.com/wNUbWa5.jpeg",
+        "_external/i.imgur.com/ZffbdlF.png",
+        "_external/i.imgur.com/Ms8cLyV.png",
+        "_external/i.imgur.com/fNidV7J.png",
+        "_external/i.imgur.com/BFE413B.png",
+        "_external/pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4c37b3a0-6085-4e13-aab3-717e1cab8d68/id-preview-e7021b8b--0ce025e8-f08f-4596-9372-7d5d1f57fa96.lovable.app-1781903830737.png",
+        "_external/fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdgozapv.ttf",
+        "_external/fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdj9yqpv.ttf",
+        "_external/fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdiayqpv.ttf",
+        "_external/fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3O8SLMFg.ttf",
+        "_external/fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OwyLMFg.ttf",
+        "_external/fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OLyXMFg.ttf",
+        "_external/fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OFiXMFg.ttf"
+    ],
+    "errors": [
+        "https://fonts.googleapis.com/: HTTP 404",
+        "https://fonts.gstatic.com/: HTTP 404"
+    ]
+}
